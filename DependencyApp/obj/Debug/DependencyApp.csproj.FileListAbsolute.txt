@@ -1,0 +1,4 @@
+c:\users\osmas\documents\visual studio 2013\Projects\DependencyApp\DependencyApp\bin\Debug\DependencyApp.exe
+c:\users\osmas\documents\visual studio 2013\Projects\DependencyApp\DependencyApp\bin\Debug\DependencyApp.pdb
+c:\users\osmas\documents\visual studio 2013\Projects\DependencyApp\DependencyApp\obj\Debug\DependencyApp.exe
+c:\users\osmas\documents\visual studio 2013\Projects\DependencyApp\DependencyApp\obj\Debug\DependencyApp.pdb
