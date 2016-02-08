@@ -2,7 +2,7 @@
 find the dependencies based on the data supplied by a package dependencies file
 
 This is a windows based console application developed in Visual Studio 2013. It will run at 
-the command prompt (CMD.exe). It will be run as : DependencyApp <datafile> <package1> <package2> .... <packageN)
+the command prompt (CMD.exe). It will be run as : DependencyApp datafile package1 package2 .... packageN
 
 Where args[0] will be the package text (e.g package.txt) file that contains the dependency information such as :
 gui -> awtui swingui
