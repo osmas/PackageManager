@@ -13,7 +13,7 @@ namespace DependencyApp
         {
             for(int i=0; i<args.Length;i++)
             {
-                Console.WriteLine(Convert.ToString(args[i]));
+               // Console.WriteLine(Convert.ToString(args[i]));
             }
              string datafile = Convert.ToString(args[0]);
              
@@ -29,13 +29,13 @@ namespace DependencyApp
             string[] lines = System.IO.File.ReadAllLines(@"" + filePath);
 
             // Display the file contents by using a foreach loop.
-            System.Console.WriteLine("Contents of Packages = ");
+           /* System.Console.WriteLine("Contents of Packages = ");
             foreach (string line in lines)
             {
                 // Use a tab to indent each line of the file.
                 Console.WriteLine("\t" + line);
             }
-
+            */
 
             for (int i = 1; i < args.Length; i++)
             {
